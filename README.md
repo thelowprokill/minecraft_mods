@@ -3,6 +3,14 @@
 Hello and welcome to the Game Squad's Minecraft Mods page.
 Here you will find all the mods used on our servers.
 
+Current Server Versions:
+Vanilla:    1.16.3
+Valhelsia3: 1.16.1
+Buildcraft: 1.12.2
+
+Contact Jon if you need assistance.
+If you do not know how to contact Jon you have no buisness being here.
+
 Instalation
 Valhelsia3 
 1. Launch MultiMC
