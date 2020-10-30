@@ -26,3 +26,5 @@ The server is now also running timber
 10. Click Loader Mods
 11. Click add
 12. Select the timber.jar file you extracted in step 7
+The server now has extra dimensions
+Repeat 7 - 12 but using the contents of dimensions.zip
