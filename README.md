@@ -4,25 +4,13 @@ Hello and welcome to the Game Squad's Minecraft Mods page.
 Here you will find all the mods used on our servers.
 
 Current Server Versions:
-Vanilla:    1.16.3
-Valhelsia3: 1.16.1
-Buildcraft: 1.12.2
+1.17
 
 Contact Jon if you need assistance.
 If you do not know how to contact Jon you have no buisness being here.
 
 Instalation
-Valhelsia3 
-1. Launch MultiMC
-2. Click add instance
-3. Give your instance a name
-4. Click import from zip
-5. Select your Valhelsia3 zip file
-6. Confirm
-The server is now also running timber
-7. extract Valhelsia_plus.zip by right clicking and pressing extract here
-8. Right click on your Valhelsia3 instance
-9. Edit Instance
-10. Click Loader Mods
-11. Click add
-12. Select all files in Valhelsia_plus file you extracted in step 7
+mv this folder to your minecraft directory/mods
+
+update by opening this in a terminal emulator and running git pull
+if git pull errors remove your local changes and try again or git reset --hard
