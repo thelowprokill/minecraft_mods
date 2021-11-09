@@ -1,0 +1,3 @@
+SUCCESS: The scheduled task "minecraft\update_minecraft_daily" has successfully been created.
+SUCCESS: The scheduled task "update_minecraft_daily" has successfully been created.
+SUCCESS: The scheduled task "minecraft\update_minecraft_daily" has successfully been created.
