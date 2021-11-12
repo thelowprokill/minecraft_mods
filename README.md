@@ -10,7 +10,12 @@ Contact Jon if you need assistance.
 If you do not know how to contact Jon you have no buisness being here.
 
 Instalation
-mv this folder to your minecraft directory/mods
+clone with:
+git clone https://github.com/thelowprokill/minecraft_mods mods
 
-update by opening this in a terminal emulator and running git pull
-if git pull errors remove your local changes and try again or git reset --hard
+or if you are lazy like jacob you can\* download the repo as a zip move pull_repo_for_lazy_people.bat to your minecraft directory and double click it. 
+
+next double click on setup.bat
+
+
+\* this is not the recomended way. I am just making it so that there is no excuse to not use the automatic updater. It makes everyting easier. 
